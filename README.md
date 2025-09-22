@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding GIF">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="Coding GIF">
 </td>
 <td width="50%" valign="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+%26+System+Optimizer;Automating+Workflows+with+Spring+Batch;Building+Scalable+REST+APIs;Exploring+Low-Level+Systems...&center=true&width=450&height=50" alt="Typing SVG" />
@@ -89,22 +89,21 @@ A results-oriented Software Engineer with 2 years of experience in building scal
 
 A selection of personal projects showcasing my passion for building and learning:
 
-- **Chip-8 Emulator**
-  * Implemented a Chip-8 virtual machine and its 35-opcode instruction set from scratch using core Java.
-  * **[Repository](https://github.com/sidhu1512/chip-8)**
+- **[Chip-8 Emulator](https://github.com/sidhu1512/chip-8)**
+  * Developed a fully functional Chip-8 virtual machine and its 35-opcode instruction set in core Java, capable of running classic 8-bit games. This project deepened my understanding of CPU architecture, memory management, and low-level graphics rendering.
 
-- **Local AI Chatbot**
-  * Built a private, real-time chatbot by integrating a locally-run LLM (Ollama) with a WebSocket backend.
-  * **[Repository](https://github.com/sidhu1512/ollama-chatbot)**
+- **[Local AI Chatbot](https://github.com/sidhu1512/ollama-chatbot)**
+  * Engineered a private, real-time chatbot application using Spring Boot and WebSockets, powered by a locally-run Ollama Large Language Model (LLM). This provides a secure and offline AI conversation experience, demonstrating expertise in local AI integration.
 
-- **AI Recipe Assistant**
-  * Developed a Spring Boot application that leverages a generative AI API for dynamic recipe creation from user-provided ingredients.
-  * **[Repository](https://github.com/sidhu1512/recipe-assistant)**
+- **[AI Recipe Assistant](https://github.com/sidhu1512/recipe-assistant)**
+  * Built a Spring Boot application that leverages the Grok generative AI API (Requires your own Grok API key) to create unique recipes from user-provided ingredients. The project features a RESTful backend to handle requests, interact with the AI service, and manage generated recipes.
+
 
 ---
 
-> ## "Talk is cheap. Show me the code."
-> ### – Linus Torvalds
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;Success+is+not+final,+failure+is+not+fatal:+It+is+the+courage+to+continue+that+counts.;The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.;Innovation+distinguishes+between+a+leader+and+a+follower.&center=true&width=800&height=50" alt="Dynamic Quotes" />
+</div>
 
 ---
 
