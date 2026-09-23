@@ -5,6 +5,8 @@
 
 <a href="https://sidhu1512.github.io" target="_blank"><strong>Portfolio Website</strong></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://sidhu1512.github.io/doing-it/" target="_blank"><strong>Doing It</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://sidhu1512.github.io/SharePaste/" target="_blank"><strong>SharePaste</strong></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/siddharth-bhadu-71a483193" target="_blank"><strong>LinkedIn</strong></a>
@@ -109,17 +111,47 @@ A personal portfolio website with an editorial dark design, oversized typography
 
 <div align="center">
 
-<a href="https://sidhu1512.github.io/SharePaste/" target="_blank">
-<img src="./img/share-paste.png" width="90%" alt="SharePaste - Code Sharing Tool" style="border-radius: 10px;"/>
+<a href="https://sidhu1512.github.io/doing-it/" target="_blank">
+<img src="./img/doing-it.png" width="90%" alt="Doing It - Desktop Productivity Overlay" style="border-radius: 10px;"/>
 </a>
 
-### [SharePaste -- Instant Code Sharing](https://sidhu1512.github.io/SharePaste/)
+### [Doing It -- Desktop Productivity Overlay for Windows 11](https://sidhu1512.github.io/doing-it/)
 
-A sleek, instant code-sharing tool with syntax highlighting, download support, and a snow-themed dark UI. Paste your code, share the link -- no sign-up needed.
+A distraction-free, frameless desktop productivity overlay engineered for Windows 11. Combines tasks with natural language dates, markdown notes, custom focus sessions with Web Audio procedural soundscapes (Brown Noise, Rainfall, Forest, Lo-Fi), local Spotify desktop playback synchronization, and RFC 5545 iCalendar meeting integration.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)&nbsp;
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+
+[Live Site](https://sidhu1512.github.io/doing-it/) • [GitHub Repository](https://github.com/sidhu1512/Doing-It) • [Download v4.3.5 Setup](https://github.com/sidhu1512/Doing-It/releases/download/v4.3.5/Doing.It.Setup.4.3.5.exe)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<a href="https://sidhu1512.github.io/SharePaste/" target="_blank">
+<img src="./img/share-paste.png" width="90%" alt="SharePaste - Zero-Database Code Sharing Platform" style="border-radius: 10px;"/>
+</a>
+
+### [SharePaste -- Zero-Database Code Sharing Platform](https://sidhu1512.github.io/SharePaste/)
+
+A client-side code sharing platform built with WebAssembly-compiled Facebook Zstandard (Level 19) compression. Complete payloads are encoded directly into RFC 3986 URL fragments (`#data=`), ensuring zero code is stored on or transmitted to servers. Features instant syntax highlighting, dual-level fallback decompression, adaptive QR code generation, and direct file downloads.
+
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)&nbsp;
+![Zstandard](https://img.shields.io/badge/Zstandard_L19-005571?style=flat-square&logo=facebook&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+
+[Live Site](https://sidhu1512.github.io/SharePaste/) • [Web App](https://sidhu1512.github.io/SharePaste/app.html) • [GitHub Repository](https://github.com/sidhu1512/SharePaste)
 
 </div>
 
