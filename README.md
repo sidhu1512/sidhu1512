@@ -112,20 +112,22 @@ A personal portfolio website with an editorial dark design, oversized typography
 <div align="center">
 
 <a href="https://sidhu1512.github.io/doing-it/" target="_blank">
-<img src="./img/doing-it.png" width="90%" alt="Doing It - Desktop Productivity Overlay" style="border-radius: 10px;"/>
+<img src="./img/doing-it.png" width="95%" alt="Doing It - Desktop Productivity Overlay for Windows 11" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.4);"/>
 </a>
 
 ### [Doing It -- Desktop Productivity Overlay for Windows 11](https://sidhu1512.github.io/doing-it/)
 
-A distraction-free, frameless desktop productivity overlay engineered for Windows 11. Combines tasks with natural language dates, markdown notes, custom focus sessions with Web Audio procedural soundscapes (Brown Noise, Rainfall, Forest, Lo-Fi), local Spotify desktop playback synchronization, and RFC 5545 iCalendar meeting integration.
+A high-performance, frameless Windows 11 productivity companion engineered for deep flow. 100% local-first and offline-capable, combining natural language task scheduling, a Day One daily journaling suite with voice memos and mood tracking, 0–100 circadian rhythm analytics, procedural ambient soundscapes, local Spotify desktop link, RFC 5545 calendar integration, and a Raycast-style command palette (`Ctrl+K`).
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+![v4.4.0](https://img.shields.io/badge/version-v4.4.0-2563eb?style=flat-square)&nbsp;
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)&nbsp;
+![Local First](https://img.shields.io/badge/Architecture-100%25_Local--First-059669?style=flat-square)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
 ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![License MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)&nbsp;
 
-[Live Site](https://sidhu1512.github.io/doing-it/) • [GitHub Repository](https://github.com/sidhu1512/Doing-It) • [Download v4.3.5 Setup](https://github.com/sidhu1512/Doing-It/releases/download/v4.3.5/Doing.It.Setup.4.3.5.exe)
+[Live Product Website](https://sidhu1512.github.io/doing-it/) • [GitHub Repository](https://github.com/sidhu1512/doing-it) • [Download v4.4.0 Setup (.exe)](https://github.com/sidhu1512/doing-it/releases/download/v4.4.0/Doing.It.Setup.4.4.0.exe)
 
 </div>
 
