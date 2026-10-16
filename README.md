@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Siddharth%20Bhadu&fontSize=45&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20Native%20Desktop%20%26%20Microservices&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Siddharth%20Bhadu&fontSize=45&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20Native%20Desktop%20%7C%20Microservices&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <a href="https://sidhu1512.github.io/dayflit/" target="_blank"><strong>DayFlit (Flagship)</strong></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
