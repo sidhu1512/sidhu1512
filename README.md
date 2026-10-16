@@ -1,8 +1,10 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Siddharth%20Bhadu&fontSize=45&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20Microservices&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Siddharth%20Bhadu&fontSize=45&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20Native%20Desktop%20%26%20Microservices&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
+<a href="https://sidhu1512.github.io/dayflit/" target="_blank"><strong>DayFlit (Flagship)</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://sidhu1512.github.io" target="_blank"><strong>Portfolio Website</strong></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://sidhu1512.github.io/doing-it/" target="_blank"><strong>Doing It</strong></a>
@@ -26,7 +28,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="Coding GIF">
 </td>
 <td width="50%" valign="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Oqulto+Technologies;Scaled+Data+Exports+from+65K+to+1M%2B+Rows;Automated+6%2B+Hour+Workflows+with+Spring+Batch;Building+Scalable+REST+APIs+%26+Microservices&center=true&width=450&height=50&color=58a6ff&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Oqulto+Technologies;Creator+of+DayFlit+(Rust+%26+Tauri+v2);Scaled+Data+Exports+from+65K+to+1M%2B+Rows;Automated+6%2B+Hour+Workflows+with+Spring+Batch;Building+Scalable+REST+APIs+%26+Microservices&center=true&width=450&height=50&color=58a6ff&pause=1000" alt="Typing SVG" />
 </td>
 </tr>
 </table>
@@ -40,8 +42,7 @@
 
 ## About Me
 
-Software Engineer with 2+ years of experience, currently at **Oqulto Technologies** and previously at **Capgemini**. I build scalable backend systems, optimize APIs, and automate workflows using Java and Spring Boot. I also enjoy tinkering with low-level systems and building cool side projects in my free time.
-
+Software Engineer with 2+ years of experience, currently at **Oqulto Technologies** and previously at **Capgemini**. I build scalable backend systems, optimize data pipelines, and engineer high-performance native desktop & web applications using Rust, Java, Spring Boot, and TypeScript. Passionate about low-level systems architecture, local-first computing, and fluid spatial interfaces.
 
 </td>
 <td valign="top" width="40%">
@@ -60,7 +61,36 @@ Software Engineer with 2+ years of experience, currently at **Oqulto Technologie
 
 ---
 
-## Projects
+## Featured Projects
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/sidhu1512/dayflit" target="_blank">
+<img src="./img/dayflit.png" width="95%" alt="DayFlit - The Native Spatial Desktop Workspace for Windows" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.4);"/>
+</a>
+
+### [DayFlit -- Native Spatial Desktop Workspace for Windows](https://github.com/sidhu1512/dayflit)
+
+An ambitious, high-performance native desktop workspace engineered in Rust & Tauri v2 within a 3.94 MB binary. Integrates bidirectional Markdown docs into AFFiNE-style edgeless infinite canvas (JSON Canvas 1.0), an iOS Dynamic Island with Dropover magnetic stash shelf, automated Win32 OS reality timeline tracking (planned calendar blocks vs. actual app usage), an interactive 3-mode Life Architecture (Wheel of Life with time-machine scrubber & 234-wire Bézier map), and a Raycast-grade command palette (`Ctrl+K`).
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)&nbsp;
+![Tauri v2](https://img.shields.io/badge/Tauri_v2-24C8D8?style=flat-square&logo=tauri&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)&nbsp;
+![100% Local-First](https://img.shields.io/badge/Architecture-100%25_Local--First-059669?style=flat-square)&nbsp;
+![Tests Passing](https://img.shields.io/badge/Tests-266_Vitest_+_17_Rust-success?style=flat-square)&nbsp;
+![License MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)&nbsp;
+
+[Live Showcase Website](https://sidhu1512.github.io/dayflit/) • [GitHub Repository](https://github.com/sidhu1512/dayflit) • [Download v1.0.0 Setup (.exe)](https://github.com/sidhu1512/dayflit/releases/download/v1.0.0/DayFlit_1.0.0_x64-setup.exe)
+
+</div>
+
+<br/>
+
+---
 
 <br/>
 
@@ -79,27 +109,7 @@ A human intelligence benchmarking platform with 90,850+ questions across 17 benc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<a href="https://sidhu1512.github.io" target="_blank">
-<img src="./img/portfolio.png" width="90%" alt="Portfolio - Building Digital Experiences" style="border-radius: 10px;"/>
-</a>
-
-### [Portfolio -- Building Digital Experiences](https://sidhu1512.github.io)
-
-A personal portfolio website with an editorial dark design, oversized typography, and smooth animations. Showcases work, services, experience, and education with a modern, premium feel.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+[GitHub Repository](https://github.com/sidhu1512/howSMARTERyouARE)
 
 </div>
 
@@ -165,15 +175,41 @@ A client-side code sharing platform built with WebAssembly-compiled Facebook Zst
 
 <div align="center">
 
-### More Projects
+<a href="https://sidhu1512.github.io" target="_blank">
+<img src="./img/portfolio.png" width="90%" alt="Portfolio - Building Digital Experiences" style="border-radius: 10px;"/>
+</a>
+
+### [Portfolio -- Building Digital Experiences](https://sidhu1512.github.io)
+
+A personal portfolio website with an editorial dark design, oversized typography, and smooth animations. Showcases work, services, experience, and education with a modern, premium feel.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+
+[Visit Website](https://sidhu1512.github.io) • [GitHub Repository](https://github.com/sidhu1512/sidhu1512.github.io)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### More Engineering Projects
 
 </div>
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Chip-8 Emulator**](https://github.com/sidhu1512/chip-8) | Fully functional Chip-8 virtual machine with 35-opcode instruction set. Runs classic 8-bit games. | `Java` `CPU Emulation` |
+| [**Chip-8 Emulator**](https://github.com/sidhu1512/chip-8) | Fully functional Chip-8 virtual machine with 35-opcode instruction set. Runs classic 8-bit games. | `Java` `CPU Emulation` `Maven` |
+| [**PocketBench**](https://github.com/sidhu1512/PocketBench) | Automated local LLM benchmarking utility with model comparison metrics. | `JavaScript` `Node.js` `LLMs` |
 | [**Local AI Chatbot**](https://github.com/sidhu1512/ollama-chatbot) | Private, real-time chatbot powered by a locally-run Ollama LLM via Spring Boot and WebSockets. | `Spring Boot` `WebSockets` `Ollama` |
 | [**AI Recipe Assistant**](https://github.com/sidhu1512/recipe-assistant) | Generates unique recipes from user-provided ingredients using Grok generative AI API. | `Spring Boot` `REST API` `Grok AI` |
+| [**Advent of Code 2025**](https://github.com/sidhu1512/Advent-Of-Code-2025) | Algorithmic puzzle solutions and performance optimizations in Java. | `Java` `Algorithms` `Data Structures` |
 
 ---
 
@@ -181,12 +217,16 @@ A client-side code sharing platform built with WebAssembly-compiled Facebook Zst
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 #### Languages:
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-#### Backend & Frameworks:
+#### Frameworks & Native:
+![Tauri v2](https://img.shields.io/badge/Tauri_v2-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)&nbsp;
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
