@@ -1,1 +1,290 @@
-<div align="center">  <!-- Wave Header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Siddharth%20Bhadu&fontSize=45&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20Native%20Desktop%20%7C%20Microservices&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>  <a href="https://sidhu1512.github.io/dayflit/" target="_blank"><strong>DayFlit (Flagship)</strong></a> &nbsp;&nbsp;ΓÇó&nbsp;&nbsp; <a href="https://sidhu1512.github.io" target="_blank"><strong>Portfolio Website</strong></a> &nbsp;&nbsp;ΓÇó&nbsp;&nbsp; <a href="https://sidhu1512.github.io/doing-it/" target="_blank"><strong>Doing It</strong></a> &nbsp;&nbsp;ΓÇó&nbsp;&nbsp; <a href="https://sidhu1512.github.io/SharePaste/" target="_blank"><strong>SharePaste</strong></a> &nbsp;&nbsp;ΓÇó&nbsp;&nbsp; <a href="https://www.linkedin.com/in/siddharth-bhadu-71a483193" target="_blank"><strong>LinkedIn</strong></a> &nbsp;&nbsp;ΓÇó&nbsp;&nbsp; <a href="mailto:siddharthbhadu.work@gmail.com" target="_blank"><strong>Email Me</strong></a> &nbsp;&nbsp;ΓÇó&nbsp;&nbsp; <a href="./cv/Siddharth-Bhadu-FlowCV-Resume-20260219.pdf"><img src="https://readme-typing-svg.herokuapp.com/?lines=%E2%AC%87+Resume;&center=true&width=80&height=22&color=58a6ff&vCenter=true&pause=800&size=14&repeat=true&duration=2000" alt="Download Resume" /></a>  </div>  <br/>  <div align="center"> <table> <tr> <td width="50%" valign="top">   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="Coding GIF"> </td> <td width="50%" valign="center">   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Oqulto+Technologies;Creator+of+DayFlit+(Rust+%26+Tauri+v2);Scaled+Data+Exports+from+65K+to+1M%2B+Rows;Automated+6%2B+Hour+Workflows+with+Spring+Batch;Building+Scalable+REST+APIs+%26+Microservices&center=true&width=450&height=50&color=58a6ff&pause=1000" alt="Typing SVG" /> </td> </tr> </table> </div>  ---  <table> <tr> <td valign="top" width="60%">  ## About Me  Software Engineer with 2+ years of experience, currently at **Oqulto Technologies** and previously at **Capgemini**. I build scalable backend systems, optimize data pipelines, and engineer high-performance native desktop & web applications using Rust, Java, Spring Boot, and TypeScript. Passionate about low-level systems architecture, local-first computing, and fluid spatial interfaces.  </td> <td valign="top" width="40%">    <a href="https://github.com/anuraghazra/github-readme-stats">     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidhu1512&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Siddharth's GitHub Stats" />   </a>   <br/>   <a href="https://github.com/anuraghazra/github-readme-stats">     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu1512&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Siddharth's Top Languages" />   </a>  </td> </tr> </table>  ---  ## Featured Projects  <br/>  <div align="center">  <a href="https://github.com/sidhu1512/dayflit" target="_blank"> <img src="./img/dayflit.png" width="95%" alt="DayFlit - The Native Spatial Desktop Workspace for Windows" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.4);"/> </a>  ### [DayFlit -- Native Spatial Desktop Workspace for Windows](https://github.com/sidhu1512/dayflit)  An ambitious, high-performance native desktop workspace engineered in Rust & Tauri v2 within a 3.94 MB binary. Integrates bidirectional Markdown docs into AFFiNE-style edgeless infinite canvas (JSON Canvas 1.0), an iOS Dynamic Island with Dropover magnetic stash shelf, automated Win32 OS reality timeline tracking (planned calendar blocks vs. actual app usage), an interactive 3-mode Life Architecture (Wheel of Life with time-machine scrubber & 234-wire B├⌐zier map), and a Raycast-grade command palette (`Ctrl+K`).  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)&nbsp; ![Tauri v2](https://img.shields.io/badge/Tauri_v2-24C8D8?style=flat-square&logo=tauri&logoColor=white)&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp; ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp; ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)&nbsp; ![100% Local-First](https://img.shields.io/badge/Architecture-100%25_Local--First-059669?style=flat-square)&nbsp; ![Tests Passing](https://img.shields.io/badge/Tests-268_Vitest_+_17_Rust-success?style=flat-square)&nbsp; ![License MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)&nbsp;  [Live Showcase Website](https://sidhu1512.github.io/dayflit/) ΓÇó [GitHub Repository](https://github.com/sidhu1512/dayflit) ΓÇó [Download v1.0.0 Setup (.exe)](https://github.com/sidhu1512/dayflit/releases/download/v1.0.0/DayFlit_1.0.0_x64-setup.exe)  </div>  <br/>  ---  <br/>  <div align="center">  <a href="https://github.com/sidhu1512/howSMARTERyouARE" target="_blank"> <img src="./img/benchmark.png" width="90%" alt="Benchmark - You vs the Machines" style="border-radius: 10px;"/> </a>  ### [Benchmark -- You vs the Machines](https://github.com/sidhu1512/howSMARTERyouARE)  A human intelligence benchmarking platform with 90,850+ questions across 17 benchmarks and 6 AI models. Pick a benchmark, answer questions, and see how you rank against AI. Built with a premium dark UI, real-time scoring, and immersive sound design.  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp; ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;  [GitHub Repository](https://github.com/sidhu1512/howSMARTERyouARE)  </div>  <br/>  ---  <br/>  <div align="center">  <a href="https://sidhu1512.github.io/doing-it/" target="_blank"> <img src="./img/doing-it.png" width="95%" alt="Doing It - Desktop Productivity Overlay for Windows 11" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.4);"/> </a>  ### [Doing It -- Desktop Productivity Overlay for Windows 11](https://sidhu1512.github.io/doing-it/)  A high-performance, frameless Windows 11 productivity companion engineered for deep flow. 100% local-first and offline-capable, combining natural language task scheduling, a Day One daily journaling suite with voice memos and mood tracking, 0ΓÇô100 circadian rhythm analytics, procedural ambient soundscapes, local Spotify desktop link, RFC 5545 calendar integration, and a Raycast-style command palette (`Ctrl+K`).  ![v4.4.0](https://img.shields.io/badge/version-v4.4.0-2563eb?style=flat-square)&nbsp; ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)&nbsp; ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)&nbsp; ![Local First](https://img.shields.io/badge/Architecture-100%25_Local--First-059669?style=flat-square)&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp; ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp; ![License MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)&nbsp;  [Live Product Website](https://sidhu1512.github.io/doing-it/) ΓÇó [GitHub Repository](https://github.com/sidhu1512/doing-it) ΓÇó [Download v4.4.0 Setup (.exe)](https://github.com/sidhu1512/doing-it/releases/download/v4.4.0/Doing.It.Setup.4.4.0.exe)  </div>  <br/>  ---  <br/>  <div align="center">  <a href="https://sidhu1512.github.io/SharePaste/" target="_blank"> <img src="./img/share-paste.png" width="90%" alt="SharePaste - Zero-Database Code Sharing Platform" style="border-radius: 10px;"/> </a>  ### [SharePaste -- Zero-Database Code Sharing Platform](https://sidhu1512.github.io/SharePaste/)  A client-side code sharing platform built with WebAssembly-compiled Facebook Zstandard (Level 19) compression. Complete payloads are encoded directly into RFC 3986 URL fragments (`#data=`), ensuring zero code is stored on or transmitted to servers. Features instant syntax highlighting, dual-level fallback decompression, adaptive QR code generation, and direct file downloads.  ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)&nbsp; ![Zstandard](https://img.shields.io/badge/Zstandard_L19-005571?style=flat-square&logo=facebook&logoColor=white)&nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;  [Live Site](https://sidhu1512.github.io/SharePaste/) ΓÇó [Web App](https://sidhu1512.github.io/SharePaste/app.html) ΓÇó [GitHub Repository](https://github.com/sidhu1512/SharePaste)  </div>  <br/>  ---  <br/>  <div align="center">  <a href="https://sidhu1512.github.io" target="_blank"> <img src="./img/portfolio.png" width="90%" alt="Portfolio - Building Digital Experiences" style="border-radius: 10px;"/> </a>  ### [Portfolio -- Building Digital Experiences](https://sidhu1512.github.io)  A personal portfolio website with an editorial dark design, oversized typography, and smooth animations. Showcases work, services, experience, and education with a modern, premium feel.  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;  [Visit Website](https://sidhu1512.github.io) ΓÇó [GitHub Repository](https://github.com/sidhu1512/sidhu1512.github.io)  </div>  <br/>  ---  <br/>  <div align="center">  ### More Engineering Projects  </div>  | Project | Description | Tech | |---------|-------------|------| | [**Chip-8 Emulator**](https://github.com/sidhu1512/chip-8) | Fully functional Chip-8 virtual machine with 35-opcode instruction set. Runs classic 8-bit games. | `Java` `CPU Emulation` `Maven` | | [**PocketBench**](https://github.com/sidhu1512/PocketBench) | Automated local LLM benchmarking utility with model comparison metrics. | `JavaScript` `Node.js` `LLMs` | | [**Local AI Chatbot**](https://github.com/sidhu1512/ollama-chatbot) | Private, real-time chatbot powered by a locally-run Ollama LLM via Spring Boot and WebSockets. | `Spring Boot` `WebSockets` `Ollama` | | [**AI Recipe Assistant**](https://github.com/sidhu1512/recipe-assistant) | Generates unique recipes from user-provided ingredients using Grok generative AI API. | `Spring Boot` `REST API` `Grok AI` | | [**Advent of Code 2025**](https://github.com/sidhu1512/Advent-Of-Code-2025) | Algorithmic puzzle solutions and performance optimizations in Java. | `Java` `Algorithms` `Data Structures` |  ---  ## Tech Stack <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>  #### Languages: ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;  #### Frameworks & Native: ![Tauri v2](https://img.shields.io/badge/Tauri_v2-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp; ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp; ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)&nbsp; ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp; ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp; ![Microservices](https://img.shields.io/badge/Microservices-0078d7?style=for-the-badge&logo=icloud&logoColor=white)&nbsp; ![REST API](https://img.shields.io/badge/REST_API-0078d7?style=for-the-badge&logo=api-platform&logoColor=white)&nbsp; ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)&nbsp;  #### Databases: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;  #### DevOps & Cloud: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)&nbsp; ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;  #### Tools & More: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp; ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;  ---  ## GitHub Streak  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhu1512&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="65%"/> </div>  <br/>  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhu1512&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true" width="90%"/> </div>  ---  <div align="center">   <img src="https://readme-typing-svg.herokuapp.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.;First,+solve+the+problem.+Then,+write+the+code.&center=true&width=700&height=45&color=8b949e&vCenter=true&pause=2000&size=15" /> </div>  ---  ## Let's Connect!  <p align="center"> <a href="https://www.linkedin.com/in/siddharth-bhadu-71a483193" target="_blank">   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" /> </a> <a href="https://github.com/sidhu1512" target="_blank">   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /> </a> <a href="mailto:siddharthbhadu.work@gmail.com" target="_blank">   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" /> </a> </p>  <!-- Wave Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<!-- Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Siddharth%20Bhadu&fontSize=45&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20Native%20Desktop%20%7C%20Microservices&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<a href="https://sidhu1512.github.io/dayflit/" target="_blank"><strong>DayFlit (Flagship)</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://sidhu1512.github.io" target="_blank"><strong>Portfolio Website</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://sidhu1512.github.io/doing-it/" target="_blank"><strong>Doing It</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://sidhu1512.github.io/SharePaste/" target="_blank"><strong>SharePaste</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/siddharth-bhadu-71a483193" target="_blank"><strong>LinkedIn</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:siddharthbhadu.work@gmail.com" target="_blank"><strong>Email Me</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="./cv/Siddharth-Bhadu-FlowCV-Resume-20260219.pdf"><img src="https://readme-typing-svg.herokuapp.com/?lines=%E2%AC%87+Resume;&center=true&width=80&height=22&color=58a6ff&vCenter=true&pause=800&size=14&repeat=true&duration=2000" alt="Download Resume" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="Coding GIF">
+</td>
+<td width="50%" valign="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Oqulto+Technologies;Creator+of+DayFlit+(Rust+%26+Tauri+v2);Scaled+Data+Exports+from+65K+to+1M%2B+Rows;Automated+6%2B+Hour+Workflows+with+Spring+Batch;Building+Scalable+REST+APIs+%26+Microservices&center=true&width=450&height=50&color=58a6ff&pause=1000" alt="Typing SVG" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+## About Me
+
+Software Engineer with 2+ years of experience, currently at **Oqulto Technologies** and previously at **Capgemini**. I build scalable backend systems, optimize data pipelines, and engineer high-performance native desktop & web applications using Rust, Java, Spring Boot, and TypeScript. Passionate about low-level systems architecture, local-first computing, and fluid spatial interfaces.
+
+</td>
+<td valign="top" width="40%">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidhu1512&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Siddharth's GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu1512&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Siddharth's Top Languages" />
+  </a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/sidhu1512/dayflit" target="_blank">
+<img src="./img/dayflit.png" width="95%" alt="DayFlit - The Native Spatial Desktop Workspace for Windows" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.4);"/>
+</a>
+
+### [DayFlit -- Native Spatial Desktop Workspace for Windows](https://github.com/sidhu1512/dayflit)
+
+An ambitious, high-performance native desktop workspace engineered in Rust & Tauri v2 within a 3.94 MB binary. Integrates bidirectional Markdown docs into AFFiNE-style edgeless infinite canvas (JSON Canvas 1.0), an iOS Dynamic Island with Dropover magnetic stash shelf, automated Win32 OS reality timeline tracking (planned calendar blocks vs. actual app usage), an interactive 3-mode Life Architecture (Wheel of Life with time-machine scrubber & 234-wire Bézier map), and a Raycast-grade command palette (`Ctrl+K`).
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)&nbsp;
+![Tauri v2](https://img.shields.io/badge/Tauri_v2-24C8D8?style=flat-square&logo=tauri&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)&nbsp;
+![100% Local-First](https://img.shields.io/badge/Architecture-100%25_Local--First-059669?style=flat-square)&nbsp;
+![Tests Passing](https://img.shields.io/badge/Tests-268_Vitest_+_17_Rust-success?style=flat-square)&nbsp;
+![License MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)&nbsp;
+
+[Live Showcase Website](https://sidhu1512.github.io/dayflit/) • [GitHub Repository](https://github.com/sidhu1512/dayflit) • [Download v1.0.0 Setup (.exe)](https://github.com/sidhu1512/dayflit/releases/download/v1.0.0/DayFlit_1.0.0_x64-setup.exe)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/sidhu1512/howSMARTERyouARE" target="_blank">
+<img src="./img/benchmark.png" width="90%" alt="Benchmark - You vs the Machines" style="border-radius: 10px;"/>
+</a>
+
+### [Benchmark -- You vs the Machines](https://github.com/sidhu1512/howSMARTERyouARE)
+
+A human intelligence benchmarking platform with 90,850+ questions across 17 benchmarks and 6 AI models. Pick a benchmark, answer questions, and see how you rank against AI. Built with a premium dark UI, real-time scoring, and immersive sound design.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
+
+[GitHub Repository](https://github.com/sidhu1512/howSMARTERyouARE)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<a href="https://sidhu1512.github.io/doing-it/" target="_blank">
+<img src="./img/doing-it.png" width="95%" alt="Doing It - Desktop Productivity Overlay for Windows 11" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.4);"/>
+</a>
+
+### [Doing It -- Desktop Productivity Overlay for Windows 11](https://sidhu1512.github.io/doing-it/)
+
+A high-performance, frameless Windows 11 productivity companion engineered for deep flow. 100% local-first and offline-capable, combining natural language task scheduling, a Day One daily journaling suite with voice memos and mood tracking, 0–100 circadian rhythm analytics, procedural ambient soundscapes, local Spotify desktop link, RFC 5545 calendar integration, and a Raycast-style command palette (`Ctrl+K`).
+
+![v4.4.0](https://img.shields.io/badge/version-v4.4.0-2563eb?style=flat-square)&nbsp;
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)&nbsp;
+![Local First](https://img.shields.io/badge/Architecture-100%25_Local--First-059669?style=flat-square)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![License MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)&nbsp;
+
+[Live Product Website](https://sidhu1512.github.io/doing-it/) • [GitHub Repository](https://github.com/sidhu1512/doing-it) • [Download v4.4.0 Setup (.exe)](https://github.com/sidhu1512/doing-it/releases/download/v4.4.0/Doing.It.Setup.4.4.0.exe)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<a href="https://sidhu1512.github.io/SharePaste/" target="_blank">
+<img src="./img/share-paste.png" width="90%" alt="SharePaste - Zero-Database Code Sharing Platform" style="border-radius: 10px;"/>
+</a>
+
+### [SharePaste -- Zero-Database Code Sharing Platform](https://sidhu1512.github.io/SharePaste/)
+
+A client-side code sharing platform built with WebAssembly-compiled Facebook Zstandard (Level 19) compression. Complete payloads are encoded directly into RFC 3986 URL fragments (`#data=`), ensuring zero code is stored on or transmitted to servers. Features instant syntax highlighting, dual-level fallback decompression, adaptive QR code generation, and direct file downloads.
+
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)&nbsp;
+![Zstandard](https://img.shields.io/badge/Zstandard_L19-005571?style=flat-square&logo=facebook&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+
+[Live Site](https://sidhu1512.github.io/SharePaste/) • [Web App](https://sidhu1512.github.io/SharePaste/app.html) • [GitHub Repository](https://github.com/sidhu1512/SharePaste)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<a href="https://sidhu1512.github.io" target="_blank">
+<img src="./img/portfolio.png" width="90%" alt="Portfolio - Building Digital Experiences" style="border-radius: 10px;"/>
+</a>
+
+### [Portfolio -- Building Digital Experiences](https://sidhu1512.github.io)
+
+A personal portfolio website with an editorial dark design, oversized typography, and smooth animations. Showcases work, services, experience, and education with a modern, premium feel.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+
+[Visit Website](https://sidhu1512.github.io) • [GitHub Repository](https://github.com/sidhu1512/sidhu1512.github.io)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### More Engineering Projects
+
+</div>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Chip-8 Emulator**](https://github.com/sidhu1512/chip-8) | Fully functional Chip-8 virtual machine with 35-opcode instruction set. Runs classic 8-bit games. | `Java` `CPU Emulation` `Maven` |
+| [**PocketBench**](https://github.com/sidhu1512/PocketBench) | Automated local LLM benchmarking utility with model comparison metrics. | `JavaScript` `Node.js` `LLMs` |
+| [**Local AI Chatbot**](https://github.com/sidhu1512/ollama-chatbot) | Private, real-time chatbot powered by a locally-run Ollama LLM via Spring Boot and WebSockets. | `Spring Boot` `WebSockets` `Ollama` |
+| [**AI Recipe Assistant**](https://github.com/sidhu1512/recipe-assistant) | Generates unique recipes from user-provided ingredients using Grok generative AI API. | `Spring Boot` `REST API` `Grok AI` |
+| [**Advent of Code 2025**](https://github.com/sidhu1512/Advent-Of-Code-2025) | Algorithmic puzzle solutions and performance optimizations in Java. | `Java` `Algorithms` `Data Structures` |
+
+---
+
+## Tech Stack
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+#### Languages:
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+#### Frameworks & Native:
+![Tauri v2](https://img.shields.io/badge/Tauri_v2-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)&nbsp;
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
+![Microservices](https://img.shields.io/badge/Microservices-0078d7?style=for-the-badge&logo=icloud&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST_API-0078d7?style=for-the-badge&logo=api-platform&logoColor=white)&nbsp;
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)&nbsp;
+
+#### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### DevOps & Cloud:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
+
+#### Tools & More:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+
+---
+
+## GitHub Streak
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhu1512&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="65%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhu1512&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true" width="90%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.;First,+solve+the+problem.+Then,+write+the+code.&center=true&width=700&height=45&color=8b949e&vCenter=true&pause=2000&size=15" />
+</div>
+
+---
+
+## Let's Connect!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/siddharth-bhadu-71a483193" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/sidhu1512" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:siddharthbhadu.work@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+</a>
+</p>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/>
