@@ -28,7 +28,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="Coding GIF">
 </td>
 <td width="50%" valign="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Oqulto+Technologies;Creator+of+DayFlit+(Rust+%26+Tauri+v2);Scaled+Data+Exports+from+65K+to+1M%2B+Rows;Automated+6%2B+Hour+Workflows+with+Spring+Batch;Building+Scalable+REST+APIs+%26+Microservices&center=true&width=450&height=50&color=58a6ff&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Cognizant;Creator+of+DayFlit+(Rust+%26+Tauri+v2);Scaled+Data+Exports+from+65K+to+1M%2B+Rows;Automated+6%2B+Hour+Workflows+with+Spring+Batch;Building+Scalable+REST+APIs+%26+Microservices&center=true&width=450&height=50&color=58a6ff&pause=1000" alt="Typing SVG" />
 </td>
 </tr>
 </table>
@@ -42,7 +42,7 @@
 
 ## About Me
 
-Software Engineer with 2+ years of experience, currently at **Oqulto Technologies** and previously at **Capgemini**. I build scalable backend systems, optimize data pipelines, and engineer high-performance native desktop & web applications using Rust, Java, Spring Boot, and TypeScript. Passionate about low-level systems architecture, local-first computing, and fluid spatial interfaces.
+Software Engineer with 3+ years of experience, currently at **Cognizant** and previously at **Capgemini**. I build scalable backend systems, optimize data pipelines, and engineer high-performance native desktop & web applications using Rust, Java, Spring Boot, and TypeScript. Passionate about low-level systems architecture, local-first computing, and fluid spatial interfaces.
 
 </td>
 <td valign="top" width="40%">
